@@ -1,0 +1,14 @@
+El programa para el calculo de la fracción irreducible, se ha desarrollado en:
+	HTML
+	Javascript
+No es necesario descargarse nada para ejecutarlo, solo es necesario un navegador Web.
+Yo suelo usar Chrome. 
+Lo he probado con Firefox y Edge y parece que funciona, si tuvieses cualquier problema comentame.
+
+He subido tambien un diagrama de flujo, que pretende representar la logica y calculos del programa.
+Lo encontraras bajo la carpeta zz_DiagramaDeFlujo\Diagrama_CalcularFraccionIrreducible.html
+Si al abrirlo, pones el ratón sobre el diagrama, veras que te muestra paginación para que puedas 
+navegar entre los dos diagramas que lo componen.
+
+Cualquier duda,
+Luján
