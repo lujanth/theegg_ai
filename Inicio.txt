@@ -1,2 +1,0 @@
-Repositorio global para todas las tareas del nivel 1.
-Organizado en subcarpetas por tarea
