@@ -1,5 +1,4 @@
 
-#%%
 """ 
 Funcion que comprueba si el dato introducido es un número 
 y está dentro del rango permitido 0.0001 - 0.9999
@@ -73,12 +72,7 @@ def calcularFraccionIrreducible():
             else: 
                 denominador = 10000
 
-            # Inicializamos con los valores anteriores, las variables con las que trabajaremos en el bucle que calculará la fraccion irreducible
-            #numeradorCalc = numerador
-            #denominadorCalc = denominador
-            
-            #numeradorFrac, denominadorFrac = buscarFraccionIrreducible(numeradorCalc, denominadorCalc)
-
+            #Llamamos a la funcion que buscara la fraccion irreducible
             numeradorFrac, denominadorFrac = buscarFraccionIrreducible(numerador, denominador)
             print('La fraccion IRREDUCIBLE calculada para ' + str(numero) + ' es: ' + str(numeradorFrac) + '/' + str(denominadorFrac))
             
