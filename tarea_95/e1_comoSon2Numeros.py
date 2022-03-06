@@ -23,5 +23,6 @@ def comoSon2Numeros():
     except ValueError:
             print("Debes introducir un dato numérico")           
 
+
 comoSon2Numeros()
 
