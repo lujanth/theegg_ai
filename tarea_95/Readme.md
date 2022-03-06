@@ -4,8 +4,10 @@
 
 - e1: Realiza un programa que lea 2 números por teclado y determine:
     
-    - Si los dos números son igualesSi los dos números son diferentes
-    - Si el primero es mayor que el segundoSi el segundo es mayor o igual que el primero
+    - Si los dos números son iguales
+    - Si los dos números son diferentes
+    - Si el primero es mayor que el segundo
+    - Si el segundo es mayor o igual que el primero
 
 - e2: Determina si una cadena de texto introducida por el usuario tiene una longitud mayor o igual a 5 y a su vez es menor que 10.
 - e3: Realiza un programa que haga la tabla de multiplicación de un número introducido de valor entre 0 y 99:
