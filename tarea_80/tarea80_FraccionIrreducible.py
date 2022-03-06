@@ -1,4 +1,3 @@
-
 """ 
 Funcion que comprueba si el dato introducido es un número 
 y está dentro del rango permitido 0.0001 - 0.9999
